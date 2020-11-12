@@ -11,3 +11,5 @@
 4) Run detect_mask_realtime.py , which will used already trained model by me to predict dace mask detection in real time.
 
 ## Some Captures
+![Screenshot 2020-11-13 031619](https://user-images.githubusercontent.com/70062935/99001554-1340c780-2561-11eb-9cb7-8be6a3581a18.jpg)
+![Screenshot 2020-11-13 031705](https://user-images.githubusercontent.com/70062935/99001557-15a32180-2561-11eb-8238-46b075444fbd.jpg)
