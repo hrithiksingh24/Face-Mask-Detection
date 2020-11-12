@@ -9,7 +9,7 @@
 2) Create two seperate directory for training and validation with each emotion having pariticular directory.
 3) To train model, run train_mask_detector.py in anaconda prompt or command prompt.
 4) Run detect_mask_realtime.py , which will used already trained model by me to predict dace mask detection in real time.
-5) Make sure that you have all the required libraries already installed as mentioned in requirements.txt, also you can directly install all the libraries by using that file only.(pip install -r requirements.txt)
+5) Make sure that you have all the required libraries already installed as mentioned in requirements.txt, also you can directly install all the libraries by using the command {pip install -r requirements.txt}
 
 ## Some Captures
 ![Screenshot 2020-11-13 031619](https://user-images.githubusercontent.com/70062935/99001752-69156f80-2561-11eb-882f-0fda09fef697.jpg)
